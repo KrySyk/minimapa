@@ -1,4 +1,4 @@
-# Minimapa-PixelCanvas
+# Minimapa-VascoPixel-PixelCanvas
 
 ### PASOS
 #### PASO 1: Instalar Tampermonkey
