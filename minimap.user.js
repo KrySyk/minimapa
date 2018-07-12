@@ -18,7 +18,7 @@
 
 
 //window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Minimap/master';
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/russofrank/pc/master/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/russofrank/pc/master';
 
 
 cssStyle = `
