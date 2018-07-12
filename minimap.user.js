@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         PixelCanvas Minimap ESP
-// @namespace    PixelCanvas Minimap ESP
+// @name         PixelCanvas Minimap 
+// @namespace    PixelCanvas Minimap 
 // @version      3.2
 // @description  PixelCanvas.io minimap for everyone
 // @author       Some Anon
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/zhexirox/Minimap
-// @updateURL    https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/minimap.user.js
-// @downloadURL  https://rawgit.com/zhexirox/Minimapa-PixelCanvas/master/minimap.user.js
+// @homepage     https://github.com/russofrank/pc
+// @updateURL    https://rawgit.com/russofrank/pc/master/minimap.user.js
+// @downloadURL  https://rawgit.com/russofrank/pc/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
