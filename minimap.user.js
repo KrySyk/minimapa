@@ -6,7 +6,7 @@
 // @author       Some Anon
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/russofrank/pc
+// @homepage     https://github.com/russofrank/pc/
 // @updateURL    https://rawgit.com/russofrank/pc/master/minimap.user.js
 // @downloadURL  https://rawgit.com/russofrank/pc/master/minimap.user.js
 // @grant        none
