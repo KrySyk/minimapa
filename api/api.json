@@ -19,5 +19,12 @@
       "y": -3831,
       "width": 558,
       "height": 661
+   },
+   "copa":{
+      "name": "copa.png",
+      "x": 6643,
+      "y": -585,
+      "width": 666,
+      "height": 468
    }
 }   
