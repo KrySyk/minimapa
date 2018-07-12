@@ -7,5 +7,5 @@
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/safari.png) [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz)
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
-#### PASO 2: Instalar el script
+#### PASO 2: Instalar o script
 <a href="https://raw.githubusercontent.com/russofrank/pc/master/minimap.user.js">download</a>
