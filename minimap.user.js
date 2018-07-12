@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PixelCanvas Minimap 
+// @name         PC Vasco Minimap 
 // @namespace    PixelCanvas Minimap 
 // @version      3.2
 // @description  PixelCanvas.io minimap for everyone
