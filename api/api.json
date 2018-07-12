@@ -33,5 +33,12 @@
       "y": -545,
       "width": 774,
       "height": 379
+   },
+   "krusty":{
+      "name": "krusty.png",
+      "x": 423
+      "y": -947
+      "width": 87
+      "height": 78
    }
 }   
