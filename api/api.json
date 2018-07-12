@@ -1,11 +1,4 @@
 {  
-   "teste":{  
-      "name": "teste.png",
-      "x": 4760,
-      "y": 1476,
-      "width": 56,
-      "height": 40
-   },
    "Art_of_the_week":{  
       "name": "Art_of_the_week.png",
       "x": 3054,
@@ -19,54 +12,5 @@
       "y": -1302,
       "width": 1617,
       "height": 714
-   },
-   "NAPFrancia":{  
-      "name": "NAPFrancia.png",
-      "x": -126,
-      "y": 1954,
-      "width": 60,
-      "height": 41
-   },
-   "NAPFrancia2":{  
-      "name": "NAPFrancia2.png",
-      "x": -256,
-      "y": 1954,
-      "width": 30,
-      "height": 85
-   },
-   "LogoFord":{  
-      "name": "LogoFord.png",
-      "x": -178,
-      "y": 2334,
-      "width": 101,
-      "height": 37
-   },
-   "Flanders":{  
-      "name": "Flanders.png",
-      "x": -17,
-      "y": 2120,
-      "width": 50,
-      "height": 94
-   },
-   "ColorsLion":{  
-      "name": "ColorsLion.png",
-      "x": -1471,
-      "y": 2735,
-      "width": 149,
-      "height": 113
-   },
-   "TetrisTitle":{  
-      "name": "TetrisTitle.png",
-      "x": -421,
-      "y": 5727,
-      "width": 242,
-      "height": 336
-   },
-   "PepeViyuela":{  
-      "name": "PepeViyuela.png",
-      "x": -370,
-      "y": 2166,
-      "width": 114,
-      "height": 99
-   }
+     }
 }
