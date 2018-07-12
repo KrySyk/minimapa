@@ -6,12 +6,12 @@
       "width": 56,
       "height": 40
    },
-   "FCpanel":{  
-      "name": "FCpanel.png",
-      "x": 332,
-      "y": -431,
-      "width": 75,
-      "height": 75
+   "Art_of_the_week":{  
+      "name": "Art_of_the_week.png",
+      "x": 3054,
+      "y": -1293,
+      "width": 104,
+      "height": 144
    },
    "EscudoFC":{  
       "name": "EscudoFC.png",
