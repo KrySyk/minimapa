@@ -36,9 +36,9 @@
    },
    "krusty":{
       "name": "krusty.png",
-      "x": 423
-      "y": -947
-      "width": 87
+      "x": 423,
+      "y": -947,
+      "width": 87,
       "height": 78
    }
 }   
