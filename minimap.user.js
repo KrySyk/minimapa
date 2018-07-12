@@ -7,8 +7,8 @@
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
 // @homepage     https://github.com/russofrank/pc/
-// @updateURL    https://raw.githubusercontent.com/pc/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/russofrank/pc/master/minimap.user.js
+// @updateURL    https://rawgit.com/pc/master/minimap.user.js
+// @downloadURL  https://rawgit.com/russofrank/pc/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,8 @@
 
 
 //window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Minimap/master';
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/russofrank/pc/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/russofrank/pc/master/master';
+
 
 cssStyle = `
 #minimapbg {
