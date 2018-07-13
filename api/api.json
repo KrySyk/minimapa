@@ -160,6 +160,14 @@
       "width": 87,
       "height: 97
    },
+   "GremioMural": {
+	"name": "Gremiomural.png",
+	"x": -3540,
+	"y": 1056,
+	"width": 583,
+	"height": 350 
+  }
+}
    "GremioMural":{
       "name": "GremioMural.png",
       "x": -3540,
