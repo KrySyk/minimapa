@@ -165,6 +165,13 @@
 	"x": -3540,
 	"y": 1056,
 	"width": 583,
-	"height": 350 
-  }
-}
+	"height": 350
+   },
+	"GremioFlag1":{
+		"name":"GremioFlag1.png",
+		"x": -785,
+		"y": -1516
+		"width": 502,
+		"height": 301
+	}
+} 
