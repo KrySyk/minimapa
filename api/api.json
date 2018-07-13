@@ -55,14 +55,18 @@
       "width": 300,
       "height": 245
    },
-   "gre_bandeirao1.png":{
-      "name": gre_bandeirao1.png,
+   "GreBandeirao1":{
+      "name": "GreBandeirao1.png",
       "x": -3970,
       "y": -1810,
       "width": 626,
-      "heighth": 752
-      },
+      "height": 752
+   },
 }   
+     
+   
+
+ 
      
     
 
