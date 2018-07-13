@@ -61,12 +61,96 @@
       "y": -1810,
       "width": 626,
       "height": 752
-   }
+   },
+   "GreBandeirao2":{
+      "name": "GreBandeirao2.png",
+      "x": -3344,
+      "y": -1810,
+      "width": 626,
+      "height": 752
+   },
+   "GremioAncap":{
+      "name": "GremioAncap.png",
+      "x": -3326,
+      "y": -676,
+      "width": 410,
+      "height": 211
+   },
+   "GremioBoard":{
+      "name": "GremioBoard.png",
+      "x": -136,
+      "y": -353,
+      "width": 75,
+      "height": 75
+   },
+   "GremioEscudao":{
+      "name": "GremioEscudao.png",
+      "x": -1794,
+      "y": -1779,
+      "width": 586,
+      "height": 586
+   },
+   "GremioFlag2":{
+      "name": "GremioFlag2.png",
+      "x": -2331,
+      "y": -1565,
+      "width": 522,
+      "height": 322
+   },
+   "gremiomain1":{
+      "name": "gremiomain1.png",
+      "x": -533,
+      "y": -1216,
+      "width": 525,
+      "height": 517
+   },
+   "gremiomain2":{
+      "name": "gremiomain2.png",
+      "x": -1295,
+      "y": -1215,
+      "width": 762,
+      "height": 403
+   },
+   "gremiomain3":{
+      "name": "gremiomain3.png",
+      "x": -1191,
+      "y": -1715,
+      "width": 752,
+      "height": 536
+   },
+   "gremiomain4":{
+      "name": "gremiomain4.png",
+      "x": -439,
+      "y": -1751,
+      "width": 237,
+      "height": 417
+   },
+   "gremiomain5":{
+      "name": "gremiomain5.png",
+      "x": -2063,
+      "y": -1243,
+      "width": 819,
+      "height": 431
+   },
+   "gremiomain6":{
+      "name": "gremiomain6.png",
+      "x": -2512,
+      "y": -1243,
+      "width": 821,
+      "height": 387
+   },
+   "gremiomain8":{
+      "name": "gremiomain8.png",
+      "x": -2331,
+      "y": -1810,
+      "width": 522,
+      "height": 245
+   },
+   "gremiomain9":{
+      "name": "gremiomain9.png",
+      "x": -1812,
+      "y": -1810,
+      "width": 826,
+      "height": 567
+   },
 }   
-     
-   
-
- 
-     
-    
-
