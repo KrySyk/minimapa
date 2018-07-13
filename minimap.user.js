@@ -6,9 +6,9 @@
 // @author       Some Anon
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/russofrank/pc/
-// @updateURL    https://raw.githubusercontent.com/pc/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/russofrank/pc/master/minimap.user.js
+// @homepage     https://github.com/Vasco-Pixel/minimapa
+// @updateURL    https://raw.githubusercontent.com/Vasco-Pixel/minimapa/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Vasco-Pixel/minimapa/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -18,7 +18,7 @@
 
 
 //window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Minimap/master';
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/russofrank/pc/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Vasco-Pixel/minimapa/master';
 
 
 cssStyle = `
