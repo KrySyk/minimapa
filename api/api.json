@@ -173,5 +173,19 @@
 		"y": -1516,
 		"width": 502,
 		"height": 301
+	},
+	"GremioKillua":{
+		"name": "GremioKillua.png",
+		"x": -8,
+		"y": -1106
+		"width": 75,
+		"height": 75
+	},
+	"GremioM4rv1n":{
+		"name": "GremioM4rv1n.png",
+		"x": 26170,
+		"y": -3918,
+		"width": 75,
+		"height": 75
 	}
 } 
