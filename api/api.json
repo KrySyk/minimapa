@@ -6,7 +6,14 @@
       "width": 104,
       "height": 144
    },
-   "vascomain":{  
+    "ta_vas":{  
+      "name": "ta_vas.png",
+      "x": 370,
+      "y": -985,
+      "width": 57,
+      "height": 107
+   },
+	"vascomain":{  
       "name": "vascomain.png",
       "x": 2717,
       "y": -1302,
