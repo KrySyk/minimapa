@@ -6,13 +6,6 @@
       "width": 104,
       "height": 144
    },
-    "minibase": {
-      "name": "minibase.png",
-      "x": 367,
-      "x": -985,
-      "width": 57,
-      "height": 107
-   },
 	"vascomain":{  
       "name": "vascomain.png",
       "x": 2717,
@@ -229,5 +222,12 @@
 		"y": -856,
 		"width": 450,
 		"height": 461
+	},
+	"minibase":{
+		"name": "minibase.png",
+		"x": 367,
+		"y": -985,
+		"width": 57,
+		"height" 107
 	}
 }
