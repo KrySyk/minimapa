@@ -6,10 +6,10 @@
       "width": 104,
       "height": 144
    },
-    "ta_vas":{  
-      "name": "ta_vas.png",
-      "x": 370,
-      "y": -985,
+    "minibase": {
+      "name": "minibase.png",
+      "x": 367,
+      "x": -985,
       "width": 57,
       "height": 107
    },
