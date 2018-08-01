@@ -201,5 +201,40 @@
 		"y": -985,
 		"width": 57,
 		"height": 107
+	},
+	"GremioMural":{
+		"name": "GremioMural.png",
+		"x": -3540,
+		"y": -1056,
+		"width": 583,
+		"height: 350
+	},
+	"GremioMain7":{
+		"name": "GremioMain7.png",
+		"x": -2718,
+		"y": -1810,
+		"width": 384,
+		"height": 811
+	},
+	"GremioTaças1":{
+		"name": "GremioTaças1.png",
+		"x": -2718,
+		"y": -2029,
+		"widht": 820,
+		"height": 219
+	},
+	"GremioTaças2":{
+		"name": "GremioTaças2.png",
+		"x": -1898,
+		"y": -2029,
+		"width": 708,
+		"height": 219
+	},
+	"GremioMuralMembros":{
+		"name": "GremioMuralMembros.png",
+		"x": -2512,
+		"y": -856,
+		"width: 450,
+		"height": 461
 	}
-} 
+}
