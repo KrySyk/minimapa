@@ -194,5 +194,12 @@
 		"y": -3918,
 		"width": 75,
 		"height": 75
+	},
+	"minibase":{
+		"name": "minibase.png",
+		"x": 367,
+		"y": -985,
+		"width": 57,
+		"height": 107
 	}
 } 
