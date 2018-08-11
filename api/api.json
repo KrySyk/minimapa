@@ -229,5 +229,12 @@
 		"y": -985,
 		"width": 57,
 		"height": 107
-	}
+	},
+	"FlagCentro":{
+		"name": "FlagCentro.png",
+		"x": 223,
+		"y": -982,
+		"width": 144,
+		"height": 96
+	},
 }
