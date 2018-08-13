@@ -223,18 +223,11 @@
 		"width": 450,
 		"height": 461
 	},
-	"minibase":{
-		"name": "minibase.png",
-		"x": 367,
+	"MainCentro":{
+		"name": "MainCentro.png",
+		"x": 217,
 		"y": -985,
-		"width": 57,
-		"height": 107
-	},
-	"FlagCentro":{
-		"name": "FlagCentro.png",
-		"x": 223,
-		"y": -982,
-		"width": 144,
-		"height": 96
+		"width": 292,
+		"height": 116
 	}
 }
