@@ -13,6 +13,20 @@
       "width": 1617,
       "height": 714
    },
+	"vep":{  
+      "name": "vep.png",
+      "x": 277,
+      "y": -511,
+      "width": 138,
+      "height": 78
+   },
+	"templarioKuru":{  
+      "name": "templarioKuru.png",
+      "x": 57,
+      "y": -732,
+      "width": 278,
+      "height": 119
+   },
    "vascomain3":{
       "name": "vascomain3.png",
       "x": 7610,
