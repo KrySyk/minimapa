@@ -62,6 +62,13 @@
       "width": 666,
       "height": 468
    },
+	"fspk":{
+      "name": "fspk.png",
+      "x": 254,
+      "y": -587,
+      "width": 161,
+      "height": 75
+   },
    "spfc":{
       "name": "spfc.png",
       "x": 5209,
