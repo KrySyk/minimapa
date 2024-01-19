@@ -13,6 +13,13 @@
       "width": 1617,
       "height": 714
    },
+	  "alice": {
+	    "name": "alicew.png",
+	    "x": 9607,
+	    "y": 2941,
+	    "width": 350,
+	    "height": 140
+    },
 	"mvp3":{  
       "name": "mvp3.png",
       "x": 250,
